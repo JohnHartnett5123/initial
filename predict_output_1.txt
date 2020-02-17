@@ -1,0 +1,6 @@
+Bruce?: Hello, Bruce!
+
+Natural 20:Adding 5, Adding another 5
+
+Divisible:Divisible by 2, Divisible by 3,Almost there!,7.5
+
